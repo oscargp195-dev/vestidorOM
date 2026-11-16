@@ -1,0 +1,12 @@
+# Datos personales (fotos, armario, historial)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
